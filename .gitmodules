@@ -1,0 +1,3 @@
+[submodule "ATaska/vendor/spdlog"]
+	path = ATaska/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
