@@ -2,5 +2,9 @@
 bin/
 bin-int/
 
+<<<<<<< HEAD
 .user
 ATaska/vendor/spdlog
+=======
+.user
+>>>>>>> cb1ea385b37d89e795f7dad164ab30712a7d9d0d
